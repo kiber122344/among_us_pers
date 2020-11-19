@@ -3,4 +3,5 @@
 pip install turtle
 
 видео с объяснением кода:
+https://www.youtube.com/watch?v=GwD4RErIiAg
 
